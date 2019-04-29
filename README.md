@@ -1,5 +1,4 @@
-# Matrix
-<p>Type to work with matrices</p>
+<p><b>Type to work with matrices</b></p>
 Implemented operations:
 <ul>
   <li>Addition operations</li>
