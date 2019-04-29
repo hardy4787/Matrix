@@ -1,4 +1,4 @@
-<p><b>Type to work with matrices</b></p>
+<p><b>Type to work with matrix</b></p>
 Implemented operations:
 <ul>
   <li>Addition operations</li>
