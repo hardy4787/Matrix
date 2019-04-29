@@ -1,6 +1,6 @@
 <p><b>Type to work with matrix</b></p>
 Implemented operations:
-
+</br>
 <ul>
   <li>Addition operations</li>
   <li>Subtraction</li>
