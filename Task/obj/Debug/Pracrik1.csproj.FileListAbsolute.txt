@@ -1,0 +1,10 @@
+C:\Users\BogdanHristich\source\repos\Pracrik1\Pracrik1\obj\Debug\Pracrik1.csprojAssemblyReference.cache
+C:\Users\BogdanHristich\source\repos\Pracrik1\Pracrik1\obj\Debug\Pracrik1.csproj.CoreCompileInputs.cache
+C:\Users\BogdanHristich\source\repos\Pracrik1\Pracrik1\bin\Debug\Pracrik1.exe.config
+C:\Users\BogdanHristich\source\repos\Pracrik1\Pracrik1\bin\Debug\Pracrik1.exe
+C:\Users\BogdanHristich\source\repos\Pracrik1\Pracrik1\bin\Debug\Pracrik1.pdb
+C:\Users\BogdanHristich\source\repos\Pracrik1\Pracrik1\bin\Debug\ClassLibrary1.dll
+C:\Users\BogdanHristich\source\repos\Pracrik1\Pracrik1\bin\Debug\ClassLibrary1.pdb
+C:\Users\BogdanHristich\source\repos\Pracrik1\Pracrik1\obj\Debug\Pracrik1.csproj.CopyComplete
+C:\Users\BogdanHristich\source\repos\Pracrik1\Pracrik1\obj\Debug\Pracrik1.exe
+C:\Users\BogdanHristich\source\repos\Pracrik1\Pracrik1\obj\Debug\Pracrik1.pdb
